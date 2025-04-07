@@ -1,1 +1,1 @@
-# System Identification and Model Adaptive Control with Belief-Space iLQR
+# Model Identification and Adaptive Control with ρ-POMDP Planning
