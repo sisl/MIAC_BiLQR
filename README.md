@@ -1,2 +1,1 @@
-# MIAC_BiLQR
-Model Identification and Adaptive Control with ρ-POMDP Planning
+# System Identification and Model Adaptive Control with Belief-Space iLQR
